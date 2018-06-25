@@ -1,0 +1,19 @@
+{
+  "name": "funp",
+  "version": "1.0.0",
+  "description": "functionalProgramming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvnjwl/funP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvnjwl/funP/issues"
+  },
+  "homepage": "https://github.com/nvnjwl/funP#readme"
+}
